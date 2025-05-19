@@ -1,5 +1,7 @@
 
 # 4.Execution_of_NetworkCommands
+## NAME: BARADHAN.L
+## REG NO :212224040045
 
 ## AIM :Use of Network commands in Real Time environment
 ## Software : 
